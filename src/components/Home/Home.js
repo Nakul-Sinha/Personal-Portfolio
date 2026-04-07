@@ -8,7 +8,6 @@ import Techstack from "../About/Techstack";
 import Github from "../About/Github";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -69,10 +68,7 @@ function Home() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
-              
-                
-              </li>
+
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/nakul-sinha-971a6131a/"

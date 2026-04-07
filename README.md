@@ -1,2 +1,3 @@
-# Personal-Portfolio
-This is my sample personal portfolio for the course "Web Programming"
+# Nakul's Personal Portfolio
+
+*Details to be added later.*
